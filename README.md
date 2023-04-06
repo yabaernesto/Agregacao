@@ -12,4 +12,13 @@ Classes e métodos seguiram o conceitos da:
 
 Conceitos como `AGREGAÇÃO DE CLASSES`, foi um tema a não se deixar por fora.
 
-> Java Project POO.
+> Java Project! Desafio POO! By: Yaba Ernesto
+
+Tela App<br>
+<img src="./img/Captura de tela de 2023-04-06 01-28-47.png" alt="Tela App">
+
+Tela telefone<br>
+<img src="./img/Captura de tela de 2023-04-06 01-29-18.png" alt="Tela telefone">
+
+Tela contactos<br>
+<img src="./img/Captura de tela de 2023-04-06 01-29-43.png" alt="Tela contactos">

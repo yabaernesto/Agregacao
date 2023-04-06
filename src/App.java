@@ -7,9 +7,9 @@ public class App {
     public static void main(String[] args) throws Exception {
         Telefone telefone = new Telefone("4002 8900");
 
-        Contato contatoA = new Contato("Lucas", "40897456");
-        Contato contatoB = new Contato("Luan", "123456");
-        Contato contatoC = new Contato("Maria", "4637329");
+        Contato contatoA = new Contato("Yaba", "948 232 55");
+        Contato contatoB = new Contato("Mayk", "232 234 55");
+        Contato contatoC = new Contato("Joilson", "234 232 55");
 
         // System.out.println(contatoA);
         // System.out.println(contatoB);
